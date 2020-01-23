@@ -13,3 +13,8 @@ For the project, I have used:
 - tensorflow == 1.15.0
 - pandas == 0.25.3
 - numpy == 1.17.5
+
+### NOTE:
+
+_January 23, 2020_
+- This code still has bugs. The model trains but consistantly breaks on the second validation scoring loop in 'model.py'. 

@@ -17,4 +17,4 @@ For the project, I have used:
 ### NOTE:
 
 _January 23, 2020_
-- This code still has bugs. The model trains but consistantly breaks on the second validation scoring loop in `model.py`. 
+- This code still has bugs. The model trains but consistently breaks on the second validation scoring loop in `model.py`. 
